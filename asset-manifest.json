@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarabol.app/static/css/main.4b891cdb.chunk.css",
+    "main.js": "/tarabol.app/static/js/main.c7d25016.chunk.js",
+    "main.js.map": "/tarabol.app/static/js/main.c7d25016.chunk.js.map",
+    "runtime-main.js": "/tarabol.app/static/js/runtime-main.d627400b.js",
+    "runtime-main.js.map": "/tarabol.app/static/js/runtime-main.d627400b.js.map",
+    "static/js/2.2599e598.chunk.js": "/tarabol.app/static/js/2.2599e598.chunk.js",
+    "static/js/2.2599e598.chunk.js.map": "/tarabol.app/static/js/2.2599e598.chunk.js.map",
+    "index.html": "/tarabol.app/index.html",
+    "precache-manifest.b20e7c015b879da33cab79a4c4b9b5b6.js": "/tarabol.app/precache-manifest.b20e7c015b879da33cab79a4c4b9b5b6.js",
+    "service-worker.js": "/tarabol.app/service-worker.js",
+    "static/css/main.4b891cdb.chunk.css.map": "/tarabol.app/static/css/main.4b891cdb.chunk.css.map",
+    "static/js/2.2599e598.chunk.js.LICENSE.txt": "/tarabol.app/static/js/2.2599e598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d627400b.js",
+    "static/js/2.2599e598.chunk.js",
+    "static/css/main.4b891cdb.chunk.css",
+    "static/js/main.c7d25016.chunk.js"
+  ]
+}
